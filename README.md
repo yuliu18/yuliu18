@@ -10,14 +10,14 @@
 
 <div align="center">
 
-- 🌱 I’m currently learning
-- Cybersecurity and Artificial Intelligence Degree
-- 
-- ✏️ I’m student from 42 Malaga
-- 
-- ♿️ I have a physical disability
-- 
-- ⚡ Fun fact: I love anime
+🌱 I’m currently learning
+Cybersecurity and Artificial Intelligence Degree
+ 
+✏️ I’m student from 42 Malaga
+ 
+♿️ I have a physical disability
+ 
+⚡ Fun fact: I love anime
 --
  </div>
 
